@@ -2,6 +2,11 @@
 
 Este projeto tem como objetivo oferecer uma solução para a validação de login de usuários, utilizando Node.js e Express para construir um backend eficiente e escalável que cria uma API RESTful. A aplicação permite o cadastro de novos usuários e a autenticação de usuários existentes.
 
+<div align="center">
+   <img src="https://github.com/peudev10/API-validate-login/assets/142743646/a74a637b-d87e-4870-ae4d-c1fa2a2004c5.png" width="500px" />
+   <img src="https://github.com/peudev10/API-validate-login/assets/142743646/1ec72550-b3ad-4043-9efd-5db2c90e83f9.png" width="380px" />
+</div>
+
 ## Funcionalidades
 
 1. **Cadastro de Usuário:**
