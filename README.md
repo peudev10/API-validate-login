@@ -25,8 +25,8 @@ Este projeto tem como objetivo oferecer uma solução para a validação de logi
 # Tecnologias Usadas
 
 ## Backend
-- Node.js ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png)
-- Express ![Express Icon](https://img.icons8.com/color/48/000000/express.png)
+- Node.js ![Node.js Icon](https://img.icons8.com/color/32/000000/nodejs.png)
+- Express ![Express Icon](https://img.icons8.com/color/32/000000/express.png)
 
 ## Frontend
 - HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
