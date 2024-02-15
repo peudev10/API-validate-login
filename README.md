@@ -1,6 +1,6 @@
 # Projeto de Validação de Login com API RESTful utilizando Node.js e Express
 
-Este projeto tem como objetivo oferecer uma solução robusta para a validação de login de usuários, utilizando Node.js e Express para construir um backend eficiente e escalável que cria uma API RESTful. A aplicação permite o cadastro de novos usuários e a autenticação de usuários existentes.
+Este projeto tem como objetivo oferecer uma solução para a validação de login de usuários, utilizando Node.js e Express para construir um backend eficiente e escalável que cria uma API RESTful. A aplicação permite o cadastro de novos usuários e a autenticação de usuários existentes.
 
 ## Funcionalidades
 
