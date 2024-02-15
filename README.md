@@ -25,14 +25,13 @@ Este projeto tem como objetivo oferecer uma solução para a validação de logi
 # Tecnologias Usadas
 
 ## Backend
-- Node.js ![Node.js Icon](https://img.icons8.com/color/32/000000/nodejs.png)
-- Express ![Express Icon](https://img.icons8.com/color/32/000000/express.png)
+- [Node.js](https://nodejs.org/) ![Node.js Icon](https://img.icons8.com/color/32/000000/nodejs.png)
+- [Express](https://expressjs.com/) ![Express Icon](https://img.icons8.com/color/32/000000/express.png)
 
 ## Frontend
-- HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) ![HTML Icon](https://img.icons8.com/color/32/000000/html-5.png)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ![CSS Icon](https://img.icons8.com/color/32/000000/css3.png)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript Icon](https://img.icons8.com/color/32/000000/javascript.png)
 
 ## Database
-- MySQL ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql.png)
-
+- [MySQL](https://www.mysql.com/) ![MySQL Icon](https://img.icons8.com/color/32/000000/mysql.png)
